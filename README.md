@@ -1,1 +1,1 @@
-# webspaynet
+# webspynet
